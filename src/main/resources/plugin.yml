@@ -1,0 +1,8 @@
+name: FactionsFix
+author: 777
+version: 1.0
+main: net.druglegends.factionsfix.FactionsFix
+
+permissions:
+  factionsfix.bypass:
+    description: "Bypass /f home restriction"
